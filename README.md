@@ -24,7 +24,7 @@ $ ./main
 
 ## Dependencies
 - GCC or Clang (for compiling C code)
-- SDL or OpenGL (if used for rendering, specify dependencies accordingly)
+- SDL
 - Make (for building the project)
 
 ## Compilation
